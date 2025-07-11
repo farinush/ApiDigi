@@ -1652,10 +1652,10 @@
     "img16":"./public/images/classifyshopp/bomi.png",
     "text16":"محصولات بومی و محلی"
   },
-  "activebeyken":{
-    "img1":"./public/images/activebeyken/image1.png",
-    "img2":"./public/images/activebeyken/image2.png"
-  },
+  "activebeyken":[
+    {"id":1,"img":"./public/images/activebeyken/image1.png"},
+    {"id":2,"img":"./public/images/activebeyken/image2.png"}
+  ],
   "favaritebrands":{
     "svgstar":"./public/svg/favaritebrands/star.svg",
     "titlestar":"محبوب ترین برندها",
